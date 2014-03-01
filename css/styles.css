@@ -1,0 +1,45 @@
+/*img.bg {
+  position: fixed;
+  opacity: 0.5;
+}*/
+
+
+#triangleList {
+  opacity:1;
+  /*display: none;*/
+  background-color: transparent;
+}
+
+.contact {
+	cursor: pointer;
+	color: #0088cc;
+}
+
+.contact:hover {
+	text-decoration: underline:
+}
+
+.container {
+  opacity: 100%;
+}
+
+.navbar-brand {
+}
+
+.navbar-brand > img {
+ padding:2px;
+}
+
+#game-board {
+  width:610px;
+}
+
+.space-cell {
+  width:200px;
+  height:200px;
+  float:left;
+  border:1px solid black;
+  text-align: center;
+  line-height: 200px;
+  font-size: 160px;
+}
